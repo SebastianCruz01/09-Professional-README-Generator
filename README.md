@@ -47,8 +47,6 @@ THEN I am taken to the corresponding section of the README
 
 * Functional application.
 
-* Here is my <a href="https://github.com/markmcdnyu/README-Generator" target="_blank">GitHub Repo Link</a>.
-
 ## The generated README includes the following sections: 
 
   * Title
@@ -69,17 +67,6 @@ THEN I am taken to the corresponding section of the README
 * Node.js
 
 
-## Contributors 
-* Mark McDonald
-* GitHub: markmcdnyu
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
-Application Requirements
-Functional application.
 
 Here is my GitHub Repo Link.
 
