@@ -12,7 +12,9 @@ The following picture shows the command line functionality of the program: READM
 
 
 User Story
-AS A developer
+AS A developerAS A developer
+I WANT a README generator
+SO THAT can quickly create a professional README for a new project
 I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 Acceptance Criteria
