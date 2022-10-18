@@ -10,6 +10,7 @@ Because this is a command-line application won’t be deployed, here is a Link t
 Application Running in Command Line
 The following picture shows the command line functionality of the program: README
 
+
 User Story
 AS A developer
 I WANT a README generator
