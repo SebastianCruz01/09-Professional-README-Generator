@@ -66,7 +66,7 @@ THEN I am taken to the corresponding section of the README
 * JavaScript
 * Node.j
 
-##SCREENSHOT 
+## SCREENSHOT 
 ![image](https://user-images.githubusercontent.com/110071825/197665046-7f096c49-96bc-4a01-9133-b00156c5cee3.png)
 
 
